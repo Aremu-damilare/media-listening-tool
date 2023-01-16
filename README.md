@@ -18,3 +18,6 @@ it only sends request to the nodejs server to scrap for data and send back to th
 
 
 # ! The app is still being developed....
+
+You can send pull request and raise issues, Thank you.
+**Note**: This project doesnt intent to have a UI,just endpoints.
